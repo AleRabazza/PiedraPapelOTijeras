@@ -4,5 +4,7 @@ namespace PiedraPapelOTijeras.Tests
 {
     public class JugadorTests
     {
+
+    
     }
 }
